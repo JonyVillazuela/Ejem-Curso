@@ -14,6 +14,7 @@ namespace Ejemplo1
     {
         public frmPrincipal()
         {
+            //Agrego este comentario
             InitializeComponent();
         }
 
